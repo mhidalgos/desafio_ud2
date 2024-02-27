@@ -10,8 +10,9 @@ public class Ejercicio1 {
 		while (i>=1) {
 		System.out.println (i);
 		i--;
-			
 		}
+		
+		System.out.println("***FIN DEL PROGRAMA***");
 	}
 
 }
